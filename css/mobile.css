@@ -1,6 +1,6 @@
 body {
     font-family: 'IBM Plex Sans', sans-serif;
-    background-image: url(/assets/bg-main-mobile.png);
+    background-image: url(../assets/bg-main-mobile.png);
     background-position: 30px -170px;
     background-repeat: no-repeat;
     background-size: 480px;
